@@ -35,7 +35,7 @@ _class: invert
 
 ---
 ### Linux Dosya Sistemi
-![dizinyapisi](https://raw.githubusercontent.com/meliketuran/MarkDown/master/photos/dizinyapisi.png)
+![dizinyapisi](https://raw.githubusercontent.com/meliketuran/meliketuran.github.io/master/photos/dizinyapisi.png)
 
 ---
 
@@ -43,11 +43,11 @@ _class: invert
 * komut satırı, uç birim veya komut satırı
 * arayüz ile yapılabilen işlemleri daha hızlı yapar.
 
-![term](https://raw.githubusercontent.com/meliketuran/MarkDown/master/photos/term.jpg)
+![term](https://raw.githubusercontent.com/meliketuran/meliketuran.github.io/master/photos/term.jpg)
 
 ---
 
-![term2](https://raw.githubusercontent.com/meliketuran/MarkDown/master/photos/term2.jpg)
+![term2](https://raw.githubusercontent.com/meliketuran/meliketuran.github.io/master/photos/term2.jpg)
 
 ---
 
@@ -72,12 +72,12 @@ UnixWare         | RedHat
 
 ---
 
-![freebsd](https://raw.githubusercontent.com/meliketuran/MarkDown/master/photos/freebsd2.jpg)
+![freebsd](https://raw.githubusercontent.com/meliketuran/meliketuran.github.io/master/photos/freebsd2.jpg)
 
 ---
 
-![bsddosya](https://raw.githubusercontent.com/meliketuran/MarkDown/master/photos/freebsddosya.jpg) dosya sistemi
-![freebsdsystem](https://raw.githubusercontent.com/meliketuran/MarkDown/master/photos/freebsdsystem.jpg) sistem info
+![bsddosya](https://raw.githubusercontent.com/meliketuran/meliketuran.github.io/master/photos/freebsddosya.jpg) dosya sistemi
+![freebsdsystem](https://raw.githubusercontent.com/meliketuran/meliketuran.github.io/master/photos/freebsdsystem.jpg) sistem info
 
 ---
 
