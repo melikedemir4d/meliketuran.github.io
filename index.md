@@ -16,7 +16,7 @@ _class: invert
 # _Açık Kaynak & Özgür yazılım_
 * run,study,share and modify
 
-![penguen](https://raw.githubusercontent.com/meliketuran/MarkDown/master/photos/penguen.png)
+![penguen](https://raw.githubusercontent.com/meliketuran/meliketuran.github.io/master/photos/penguen.png)
 
 
 ---
